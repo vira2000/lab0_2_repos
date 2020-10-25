@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Новая папка (9)\Project2\Project2\Source.cpp(17,17): error C2563: mismatch in formal parameter list
+D:\Новая папка (9)\Project2\Project2\Source.cpp(22,15): error C2563: mismatch in formal parameter list
+D:\Новая папка (9)\Project2\Project2\Source.cpp(22,15): error C2568: '<<': unable to resolve function overload
+D:\Новая папка (9)\Project2\Project2\Source.cpp(22,15): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
+D:\Новая папка (9)\Project2\Project2\Source.cpp(23,20): error C2563: mismatch in formal parameter list
+D:\Новая папка (9)\Project2\Project2\Source.cpp(24,2): error C2146: syntax error: missing ';' before identifier 'count'
+D:\Новая папка (9)\Project2\Project2\Source.cpp(24,20): error C2563: mismatch in formal parameter list
